@@ -1,0 +1,35 @@
+.aqua{
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 0px auto;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+.blue{
+    width: 150px;
+    border: solid blue 5px;
+}
+.purple {
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 0px auto;
+    background-color: plum;
+    color: purple;
+}
+.palevioletred{
+    width: 150px;
+    border: solid palevioletred 5px;
+}
+.green {
+    width: 100px;
+    height: 100px;
+    margin: 0px auto 0px auto;
+    background-color: greenyellow ;
+    color: green ;
+    
+}
+.forestgreen{
+    width: 150px;
+    border: solid forestgreen 5px;
+
+}
